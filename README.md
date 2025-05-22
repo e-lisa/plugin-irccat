@@ -1,6 +1,8 @@
 irccat plugin for Kanboard
 ==============================
 
+![IRC](https://raw.githubusercontent.com/e-lisa/plugin-irccat/refs/heads/main/IRC_Logo_Small.png)
+
 Receive Kanboard notifications on IRC via irccat.
 
 Author
