@@ -1,7 +1,7 @@
 irccat plugin for Kanboard
 ==============================
 
-Receive Kanboard notifications on irccat.
+Receive Kanboard notifications on IRC via irccat.
 
 Author
 ------
@@ -55,4 +55,5 @@ You can also define the webhook URL globally in the **Application settings > Int
 
 ## Copyright Attribution
 
-`IRC_Logo_Small.png` by Lilers5 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse.
+- `IRC_Logo_Small.png` by Lilers5 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse.
+- Project forked from https://github.com/kanboard/plugin-mattermost
